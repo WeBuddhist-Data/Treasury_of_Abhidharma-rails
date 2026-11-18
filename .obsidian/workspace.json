@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/ཆོས་མངོན་པ་གསལ་བར་བྱེད་པའི་ཉི་མ། དཀར་ཆག.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་གསལ་བར་བྱེད་པའི་ཉི་མ། དཀར་ཆག"
+              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "87863a6070f17829",
   "lastOpenFiles": [
+    "0-INBOX/TOCs/ཆོས་མངོན་པ་གསལ་བར་བྱེད་པའི་ཉི་མ། དཀར་ཆག.md",
     "4-SYSTEM/scripts/linter-root-text/validate.py",
     "4-SYSTEM/scripts/linter-root-text/UPSTREAM.md",
     "4-SYSTEM/scripts/linter-root-text/requirements.txt",
@@ -212,7 +213,6 @@
     "4-SYSTEM/scripts/linter-root-text",
     "4-SYSTEM/Skills/commentary-toc-ingest/SKILL.md",
     "4-SYSTEM/Skills/commentary-toc-ingest",
-    "4-SYSTEM/Skills/commentary-preclean/scripts/preclean_commentary.py",
     "4-SYSTEM/Skills/commentary-preclean/SKILL.md",
     "4-SYSTEM/Skills/commentary-pipeline/SKILL.md",
     "4-SYSTEM/Skills/commentary-block-ids/SKILL.md",
